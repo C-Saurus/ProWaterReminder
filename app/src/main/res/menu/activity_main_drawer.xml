@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="?attr/actionModeSelectAllDrawable"
+            android:title="Màn hình chính" />
+        <item
+            android:id="@+id/nav_reminder"
+            android:icon="@android:drawable/ic_popup_reminder"
+            android:title="Nhắc nhở" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="Số liệu" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="?android:attr/actionModeFindDrawable"
+            android:title="Lịch sử" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Cài đặt" />
+        <item
+            android:id="@+id/nav_another"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Khác" />
+    </group>
+</menu>

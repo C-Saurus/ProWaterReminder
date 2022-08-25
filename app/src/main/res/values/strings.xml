@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProWaterReminder</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Tiếp</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="start">Bắt đầu thôi!</string>
+
+    <string name="slide_1_title">Xin chào bạn!</string>
+    <string name="slide_1_desc">Cảm ơn bạn đã sử dụng ứng dụng này, bạn sẽ có những trải nghiệm tốt nhất!</string>
+
+    <string name="slide_2_title">Việc uống đủ nước rất quan trọng!</string>
+    <string name="slide_2_desc">Hãy uống nước đầy đủ, bạn sẽ nhận được sức khỏe và làn da tuyệt vời!</string>
+
+    <string name="slide_3_title">Hãy điền các thông tin của bạn!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
